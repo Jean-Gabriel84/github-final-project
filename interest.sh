@@ -4,7 +4,7 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Jean-Gabriel (IBM)
+   # Author: Jean-Gabriel
    # Additional Authors:
    # <your GitHub username>
 
